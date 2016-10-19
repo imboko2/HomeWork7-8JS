@@ -55,3 +55,29 @@ body {
     font-size: 20px;
     overflow: auto;
 }
+.visible{
+    display: none;
+}
+#b1{
+    margin-top: 20px;
+    width: 100px;
+    height: 20px;
+}
+.forms{
+    margin-top: 50px;
+    width: 600px;
+    text-align: center;
+}
+.forms p{
+    padding: 5px;
+}
+.p1{
+    margin-left: 19px;
+}
+.p3 {
+    margin-left: 61px;
+}
+.hlp{
+    margin-left: 4px;
+    border: 1px solid white;
+}
